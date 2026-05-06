@@ -1,0 +1,17 @@
+node_modules
+.env
+
+# logs
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Render / cache
+.cache
+dist
+build
